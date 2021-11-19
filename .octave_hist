@@ -1,0 +1,57 @@
+# Octave 6.4.0, Fri Nov 12 06:44:48 2021 GMT <unknown@DESKTOP-0QJS204>
+1trabajo
+1 trabajo
+1trabajo.m
+s.m
+s.m
+\mathrm{\frac{g\left(x\right)}{\left(-20,\:20\right)}\Rightarrow \:R\left(x\right),\:g\left(x\right)=x2}s.m
+s.m
+\mathrm{\frac{g\left(x\right)}{\left(-20,\:20\right)}\Rightarrow \:R\left(x\right),\:g\left(x\right)=x2}s.m
+\mathrm{\frac{g\left(x\right)}{\left(-20,\:20\right)}\Rightarrow \:R\left(x\right),\:g\left(x\right)=x2}s.m
+s.m
+# Octave 6.4.0, Sun Nov 14 17:30:58 2021 GMT <unknown@DESKTOP-0QJS204>
+# Octave 6.4.0, Sun Nov 14 17:34:19 2021 GMT <unknown@DESKTOP-0QJS204>
+s
+s
+# Octave 6.4.0, Mon Nov 15 22:26:59 2021 GMT <unknown@DESKTOP-0QJS204>
+s.m
+cl
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+# Octave 6.4.0, Mon Nov 15 23:07:32 2021 GMT <unknown@DESKTOP-0QJS204>
+s.m
+s.m
+s.m
+s.m
+sm
+s
+s
+s
+s
+# Octave 6.4.0, Tue Nov 16 11:17:52 2021 GMT <unknown@DESKTOP-0QJS204>
+# Octave 6.4.0, Tue Nov 16 11:40:21 2021 GMT <unknown@DESKTOP-0QJS204>
+FUNCIONES
+FUNCIONES
+FUNCIONES.M
+cl
+e)a)r)
+%) )D)o)m)i)n)i)o) )d)e) )l)a) )f)u)n)c)i)nnn
+x= [-20:1:20]
+%plot
+fx= (x.^2-4)
+%plot 
+plot(x, fx)
+# Octave 6.4.0, Fri Nov 19 10:29:53 2021 GMT <unknown@DESKTOP-0QJS204>
+# Octave 6.4.0, Fri Nov 19 10:32:14 2021 GMT <unknown@DESKTOP-0QJS204>
